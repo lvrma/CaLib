@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CaLib", "build\CaLib.vcxproj", "{B9DE6833-1209-4EB6-B85A-0C634D9B0EC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9DE6833-1209-4EB6-B85A-0C634D9B0EC2}.Release|x64.ActiveCfg = Release|x64
+		{B9DE6833-1209-4EB6-B85A-0C634D9B0EC2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB9843AC-BD4A-4A34-A960-12AF96FFA8E5}
+	EndGlobalSection
+EndGlobal
